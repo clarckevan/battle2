@@ -163,7 +163,7 @@ top: 500px;
       /* Ajouter box-sizing */
       box-sizing : border-box;
       border-radius:5px;
-      background-color:#f2f2f2;
+      background-color: #54b3d6;
       padding:20px;
       width: 100%;
       /* redéfinition 400 + 2*20 */
@@ -171,7 +171,7 @@ top: 500px;
       margin:0 auto;
     }
     h1  {
-      color: #ffc800;
+      color: white;
       width: 100%;
       text-align: center;
     }
@@ -188,7 +188,7 @@ top: 500px;
   }
   
   thead {
-    background-color: purple;
+    background-color:  #54b3d6;
     color: white;
   }
   
